@@ -3,7 +3,7 @@
 ### Description:
 
 This is a 2.8inch TFT LCD with resistive touch panel, has 320x240 resolution. It can support any revision of Raspberry Pi. Driver is provided for Raspbian/Ubuntu Mate/kali.
-I fixed an error that was happening in one of the files
+I fixed an error that was happening in one of the files main.c #include <sys/ioctl.h>  // For ioctl
 
 ### Website：
 
